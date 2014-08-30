@@ -34,7 +34,7 @@ class MCModInfo:
             # Set All to None if no MCMod.info file is found... simply print the Zip filename
             self.info_map.setdefault("author", None)
             self.info_map.setdefault("authors", None)
-            self.info_map.setdefault("name", zip_file)
+            self.info_map.setdefault("name", zip_file[zip_file.rindex("/") + 1:])
             self.info_map.setdefault("version", None)
             self.info_map.setdefault("mcversion", None)
             self.info_map.setdefault("desc", None)
@@ -163,7 +163,7 @@ class MCModInfo:
                     if self.authors is not None and len(self.authors) > 1 else\
                     ""
 
-            return "{} | Created By: {} :: v{}\n" \
+            return "{} | Authored By: {} :: v{}\n" \
                    "{}\n" \
                    "{}\n" \
                    "{}".format(name, author, version, desc, url, team)
@@ -198,22 +198,26 @@ def initialize():
     default_exists = os.path.exists(DEFAULT_WORKING_DIR)
 
     if len(sys.argv) < 3:
-        print("INVALID ARGUMENTS! ModLister.py <modpack-name> <minecraft-version> [<root-directory>] [<output-file>]")
+        print("INVALID ARGUMENTS!")
+        print("ModLister.py <modpack-name> <minecraft-version> [<output-file>] [root-directory]")
         print("The Root Directory Must contain a 'mods' folder!")
         print("Or, if no argument is passed, the current directory is used.")
+        print("If no output-file is specified, it is spit out to the console.")
     else:
         mod_pack_name = sys.argv[1]
         mod_pack_mcversion = sys.argv[2]
 
-        if len(sys.argv) >= 4 and os.path.exists(sys.argv[3]):
-            work_dir = sys.argv[3]
-        elif len(sys.argv) >= 4 and default_exists:
-            work_dir = DEFAULT_WORKING_DIR
-
-        if len(sys.argv) >= 5:
-            output_file = sys.argv[4]
+        if len(sys.argv) >= 4:
+            output_file = sys.argv[3]
         else:
-            print("INVALID Output File! -- " + sys.argv[4])
+            print("INVALID Output File! -- " + sys.argv[3])
+
+        if len(sys.argv) >= 5 and os.path.exists(sys.argv[4]):
+            work_dir = sys.argv[4]
+        elif default_exists:
+            work_dir = DEFAULT_WORKING_DIR
+        else:
+            work_dir = None
 
 '''
     A Default Checker Function. May change in the future.
@@ -286,8 +290,8 @@ def print_mod_info(modinfo, out=None):
         out_file.write("Mod List Creator v1.0 by Matthew Crocco -- Written in Python :D")
         out_file.write("\n########################################################################")
         out_file.write("\nTotal Mods: " + str(len(modinfo)))
-        out_file.write("\nModpack: {}" + mod_pack_name)
-        out_file.write("\nMCVersion: {}" + mod_pack_mcversion)
+        out_file.write("\nModpack: " + mod_pack_name)
+        out_file.write("\nMCVersion: " + mod_pack_mcversion)
         out_file.write("\n########################################################################\n")
 
         for info in modinfo:
