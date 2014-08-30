@@ -1,0 +1,724 @@
+########################################################################
+Mod List Creator v1.0 by Matthew Crocco -- Written in Python :D
+########################################################################
+Total Mods: 112
+Modpack: Bevo TechPack+
+MCVersion: 1.7.10
+########################################################################
+
+########################################################################
+VoxelMap No Radar | Authored By: MamiyaOtaru :: v1.7.10-1.0
+Voxelmap is a Minimap that has been packed to the brim with features
+-Works properly in the Nether
+-Supports most custom Forge blocks
+-Teleport to waypoints if you have permission
+-Press "Z" to change map zoom level
+-Press "X" to toggle large map
+-Press "M" to bring up the minimap menu
+http://www.planetminecraft.com/member/mamiyaotaru/
+########################################################################
+
+########################################################################
+MineTweaker 3 | Authored By: Stan Hebben :: v1.7.10-3.0.3
+Customize your minecraft experience!
+http://minetweaker3.powerofbytes.com
+########################################################################
+
+########################################################################
+BD Lib | Authored By: bdew :: v1.4.3.14
+
+bdew.net/mods/
+########################################################################
+
+########################################################################
+Binnie Core | Authored By: Binnie :: v2.0-dev4
+Base mod for Binnie's Mods, with lots of common code.
+http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+########################################################################
+
+########################################################################
+ProjectRed-Expansion | Authored By: Unknown :: v4.4.8.47
+None
+None
+########################################################################
+
+########################################################################
+IndustrialCraft 2 | Authored By: Alblaka :: v2.2.624-experimental
+Industrial age themed expansion for Minecraft.
+http://www.industrial-craft.net
+Credit: Alblaka, Player, RichardG, Thunderdark, GregoriusT, alexthesax, Drashian, Elementalist, Feanturi, Lurch1985, SirusKing, tahu44, C, o, n, t, r, i, b, u, t, i, o, n, s,  , b, y,  , m, a, n, y,  , p, e, o, p, l, e
+########################################################################
+
+########################################################################
+Steve's Workshop | Authored By: Vswe :: v0.4.1
+Adds a modular production table for crafting and smelting
+None
+########################################################################
+
+########################################################################
+
+Morpheus-1.7.10-1.5.18
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Growthcraft Rice | Authored By: Gwafu :: v2.1.0a
+Growthcraft Rice is a mod which adds a new crop; rice. Alongside it also comes a new brew type; sake.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+Waila Harvestability | Authored By: squeek :: v1.0.4
+An add-on for Waila that adds information about the harvestability of what you are looking at
+
+########################################################################
+
+########################################################################
+Natura | Authored By: mDiyo :: v1.7.2-42.6fb5b37
+Heyo, Redwood trees! Chop them all day long!
+www.minecraftforum.net/topic/1753754-natura/
+Credit: mDiyo, Slime Knights, S, a, m, t, r, i, o, n, ,,  , t, t, e, r, r, a, g
+########################################################################
+
+########################################################################
+
+Translocator-1.7.10-1.1.1.10-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Chisel | Authored By: AUTOMATIC_MAIDEN :: v1.5.6b
+A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel.
+
+Credit: AUTOMATIC_MAIDEN, Pokefenn, T, h, i, s,  , m, o, d,  , u, s, e, s,  , a,  , l, o, t,  , o, f,  , t, e, x, t, u, r, e, s,  , f, r, o, m,  , t, h, e,  , P, a, i, n, t, e, r, l, y,  , p, a, c, k, :,  , h, t, t, p, :, /, /, p, a, i, n, t, e, r, l, y, p, a, c, k, ., n, e, t, /, .,  , A, l, s, o,  , o, n, e,  , s, t, o, n, e,  , v, a, r, i, a, t, i, o, n,  , i, s,  , d, e, s, i, g, n, e, d,  , t, o,  , l, o, o, k,  , l, i, k, e,  , a,  , b, l, o, c, k,  , f, r, o, m,  , D, o, k, u, .,  , O, h, ,,  , a, n, d,  , a, s, i, e,  , f, o, r,  , p, o, r, t, i, n, g,  , t, h, e,  , m, o, d,  , t, o,  , 1, ., 7, ., 2
+########################################################################
+
+########################################################################
+ProjectRed-Compatibility | Authored By: Unknown :: v4.4.8.47
+None
+None
+########################################################################
+
+########################################################################
+BetterBedrockGen | Authored By: gigabit101 :: v1.0.0
+Bedrock Is Flat
+
+########################################################################
+
+########################################################################
+
+CodeChickenLib-1.7.10-1.1.1.101-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Baubles | Authored By: Azanor :: v1.7.10-1.0.1.7
+Adding a touch of bling to Minecraft
+http://www.minecraftforum.net/topic/2535073-baubles
+########################################################################
+
+########################################################################
+Forge Multipart | Authored By: ChickenBones :: v1.1.0.300
+Open source library for facilitation of multiple functional parts in the one block space.
+https://github.com/Chicken-Bones/ForgeMultipart
+########################################################################
+
+########################################################################
+Progressive Automation | Authored By: Vanhal :: v1.4.3
+A mod that adds automation that can be built in the early game and upgraded throughout late game.
+https://github.com/Vanhal/ModJam/
+########################################################################
+
+########################################################################
+Botania | Authored By: Vazkii :: vr1.2-106
+Botania is a mod that adds nature magic to Minecraft.
+http://www.vazkii.us
+########################################################################
+
+########################################################################
+Enchiridion | Authored By: joshie :: v1.2b
+Custom books in minecraft!
+
+########################################################################
+
+########################################################################
+Thaumic Exploration | Authored By: Flaxbeard :: vPre 0.6.0b
+An add-on for Thaumcraft 4.1, adding a variety of content.
+https://github.com/Flaxbeard/Thaumic_Exploration
+########################################################################
+
+########################################################################
+Refined Relocation | Authored By: Dynious :: v1.0.6b
+Filter, sort and relocate!
+
+########################################################################
+
+########################################################################
+WTP | Authored By: Robosphinx :: v1.0
+WTP, or What's this pack, simply displays a modpack name or a message in the upper left corner of the main menu. The string and color are both configurable.
+
+########################################################################
+
+########################################################################
+Simply Jetpacks | Authored By: tonius11 :: v1.1.0
+An addon for Thermal Expansion that adds jetpacks, among some other things.
+
+########################################################################
+
+########################################################################
+Roguelike Dungeons | Authored By: Greymerk :: v1.3.5
+Adds randomized dungeons to the world
+dungeons.homelinux.org
+########################################################################
+
+########################################################################
+
+CompactSolars-1.7.10-4.4.37.314-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+NEI Plugins Unofficial | Authored By: mistaqur :: v1.1.0.8-unofficial
+None
+https://bitbucket.org/mistaqur/nei_plugins/wiki
+########################################################################
+
+########################################################################
+OpenBlocks | Authored By: Mikee :: v1.3
+All the things you never thought you will ever need
+http://www.openperipheral.info
+Credit: Mikee, NeverCast, boq, Lyqyd
+########################################################################
+
+########################################################################
+OpenMods | Authored By: Mikee :: v0.6
+Boring stuff for all that silly Open* mods
+http://openmods.info/
+Credit: Mikee, NeverCast, boq, Lyqyd
+########################################################################
+
+########################################################################
+Statues | Authored By: AUTOMATIC_MAIDEN :: v2.1.2
+Adds a hammer used to craft Statues.
+
+Credit: AUTOMATIC_MAIDEN, asiekierka, A, U, T, O, M, A, T, I, C, _, M, A, I, D, E, N
+########################################################################
+
+########################################################################
+
+Morph-Beta-0.9.0
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+ObsidiPlates | Authored By: Myrathi :: v3.0.0.18
+Provides pressure plates that can only be activated by players (plus NPC, quiet and shrouded variants).
+http://smarturl.it/ObsidiPlates
+########################################################################
+
+########################################################################
+
+CarpentersBlocksCachedResources
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Growthcraft Hops | Authored By: Gwafu :: v2.1.0
+Growthcraft Hops is a mod which adds a new crop to the game, hops. It also comes with Ale-brewing. 
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+The Twilight Forest | Authored By: Benimatic (Ben Mazur) :: v2.2.3
+An enchanted forest dimension.
+http://www.minecraftforum.net/topic/561673-
+########################################################################
+
+########################################################################
+Forestry for Minecraft | Authored By: SirSengir :: v3.0.0.92
+Trees, bees and more.
+http://forestry.sengir.net/
+########################################################################
+
+########################################################################
+Factorization | Authored By: neptunepink :: v1.7.10-0.8.87.1
+Auto-crafting, ore processing, barrels, and other tools
+http://minecraftforum.net/topic/1351802-
+########################################################################
+
+########################################################################
+IC2 Advanced Machines Addon | Authored By: AtomicStryker :: vNone
+Some additional Machines for the electrical Connoisseur
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907
+########################################################################
+
+########################################################################
+Opis | Authored By: ProfMobius :: v1.2.3_1.7.10
+Contextual server profiler
+
+########################################################################
+
+########################################################################
+CoFH Core | Authored By: Team CoFH :: v3.0.0B6
+CoFH Core Module
+http://www.teamcofh.com
+########################################################################
+
+########################################################################
+BiblioCraft | Authored By: Joseph 'Nuchaz' Sinclair :: v1.7.4
+BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!
+http://www.bibliocraftmod.com
+########################################################################
+
+########################################################################
+Steve's Factory Manager | Authored By: Vswe :: vA90
+Steve's Factory Manager is a mod which allows you to set up systems that moves and manages items between inventories and machines
+
+########################################################################
+
+########################################################################
+
+Pams HarvestCraft 1.7.10a
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+ModTweaker | Authored By: joshie :: v0.5c
+ModTweaker is an addon for MineTweaker, providing additional support for various different mods.
+
+Credit: joshie, SpitefulFox
+########################################################################
+
+########################################################################
+Inventory Tweaks | Authored By: Jimeo Wan :: v1.59-dev-152-cf6e263
+Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.
+https://github.com/Kobata/inventory-tweaks
+Credit: Jimeo Wan, Kobata, B, y,  , J, i, m, e, o,  , W, a, n, ,,  , u, p, d, a, t, e, d,  , f, o, r,  , F, o, r, g, e,  , b, y,  , K, o, b, a, t, a
+########################################################################
+
+########################################################################
+MineFactory Reloaded | Authored By: PowerCrystals :: v2.8.0RC2
+Automate everything!
+http://minecraft.curseforge.com/mc-mods/minefactory-reloaded/
+Credit: PowerCrystals, TehKrush, AtomicStryker, Feanorith, skyboy026, A, l, l,  , t, h, e,  , c, o, n, t, r, i, b, u, t, o, r, s
+########################################################################
+
+########################################################################
+Tinkers' Mechworks | Authored By: mDiyo :: v66.8f23bae
+
+
+Credit: mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, S, l, i, m, e,  , K, n, i, g, h, t, s
+########################################################################
+
+########################################################################
+MekanismTools | Authored By: aidancbrady :: v7.1.0
+Tools module for Mekanism.
+None
+########################################################################
+
+########################################################################
+Ender IO | Authored By: crazypants :: v1.7.10-2.0.1.194.194
+Compact conduits, painted things and access to your stuff through an eye of ender.
+http://enderio.com
+########################################################################
+
+########################################################################
+Thaumcraft | Authored By: Azanor :: v1.7.10-4.2.0.1
+Adding a touch of magic to Minecraft
+http://www.minecraftforum.net/topic/2011841-thaumcraft
+########################################################################
+
+########################################################################
+Carpenter's Blocks | Authored By: Mineshopper :: v3.2.6
+Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns.
+
+########################################################################
+
+########################################################################
+asielib | Authored By: asiekierka :: v0.2.9
+Utilities for asie's mods
+
+########################################################################
+
+########################################################################
+BiblioWoods Natura Edition | Authored By: Joseph 'Nuchaz' Sinclair :: v1.2
+Adds support for 13 varietys of wood from Natura for 8 of the wooden block in BiblioCraft.
+http://www.bibliocraftmod.com
+########################################################################
+
+########################################################################
+Jabba | Authored By: ProfMobius :: v1.1.4_1.7.10
+Moar barrels
+
+Credit: ProfMobius, Taelnia, T, h, e,  , F, o, r, g, e,  , a, n, d,  , F, M, L,  , g, u, y, s, ,,  , f, o, r,  , m, a, k, i, n, g,  , t, h, i, s,  , e, x, a, m, p, l, e
+########################################################################
+
+########################################################################
+Thermal Expansion | Authored By: Team CoFH :: v4.0.0B5
+Expanding Minecraft Thermally - provides new options for automation and processing!
+http://www.teamcofh.com
+########################################################################
+
+########################################################################
+
+CoFHLib-[1.7.10]1.0.0B6-26
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Graviation Suite | Authored By: SeNtiMeL :: v1.7.10-2.0.1
+Gravitation Suite give you ability to fly. This is addon for IndustrialCraft 2
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+########################################################################
+
+########################################################################
+iChunUtil | Authored By: iChun :: v4.0.0
+Shared library mod required by several of iChun's Mods.
+http://www.ichun.us/
+Credit: iChun, Kihira
+########################################################################
+
+########################################################################
+Extra Utilities | Authored By: RWTema :: v1.1.0i
+
+
+########################################################################
+
+########################################################################
+Railcraft | Authored By: CovertJaguar :: v9.2.2.0
+Redefine your rails
+http://railcraft.info/
+########################################################################
+
+########################################################################
+Flaxbeard's Steam Power | Authored By: Flaxbeard :: v0.26.0
+A mod based around steam power and steampunk tech.
+https://github.com/Flaxbeard/Flaxbeards-Steam-Power
+Credit: Flaxbeard, Zenith
+########################################################################
+
+########################################################################
+Waila | Authored By: ProfMobius :: v1.5.3a_1.7.10
+All your data are belong to us.
+
+########################################################################
+
+########################################################################
+Growthcraft Apples | Authored By: Gwafu :: v2.1.0
+Growthcraft Apples is a mod which changes how apples are farmed in-game. In addition to this, it also adds Apple Ciders as a new product from apples.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+Hardcore Questing Mode | Authored By: Vswe :: vThe Journey (4.2.0)
+This mod will add Hardcore mode with extra lives. If you use up your lives, your world will be deleted or you will be banned.
+http://hardcorequest.com/
+Credit: Vswe, Lorddusk, Newcastlegeek
+########################################################################
+
+########################################################################
+MobiusCore | Authored By: ProfMobius :: v1.2.3_1.7.10
+Core mod used for Opis
+
+########################################################################
+
+########################################################################
+ProjectRed | Authored By: MrTJP :: v4.4.8.47
+Redstone. The way it was meant to be. Built against Forge 10.13.0.1207.
+http://projectredwiki.com
+Credit: MrTJP, ChickenBones, E, l, o, r, a, a, m, ,,  , G, i, t, H, u, b,  , c, o, n, t, r, i, b, u, t, o, r, s
+########################################################################
+
+########################################################################
+ProjectRed-Exploration | Authored By: Unknown :: v4.4.8.47
+None
+None
+########################################################################
+
+########################################################################
+TiC Tooltips | Authored By: squeek :: v1.1.9
+A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool part tooltips.
+http://www.minecraftforum.net/topic/2509840-
+########################################################################
+
+########################################################################
+
+ejml-0.23
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+AtomicStryker Update Check Mod | Authored By: AtomicStryker :: vNone
+Minimalistic Update Checker for all AtomicStryker mods
+atomicstryker.net
+########################################################################
+
+########################################################################
+Pressure Piping | Authored By: bdew :: v0.9.2.12
+
+htts://bdew.net/
+########################################################################
+
+########################################################################
+
+NoVoidFog_1.7.10
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Backpack | Authored By: Eydamos :: v2.0.0-1.7.x
+Provides the player with multiple, colored backpacks, which each has the space of a normal chest.
+http://www.minecraftforum.net/topic/1492661-
+########################################################################
+
+########################################################################
+Mantle | Authored By: mDiyo :: v0.3.1.jenkins180
+Shared code for Slime Knights mods and others.
+https://github.com/SlimeKnights/Mantle
+Credit: mDiyo, Sunstrike, progWML6
+########################################################################
+
+########################################################################
+BuildCraft | Authored By: SpaceToad :: v6.0.17
+Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!
+http://www.mod-buildcraft.com/
+Credit: SpaceToad, BuildCraft Team, C, r, e, a, t, e, d,  , b, y,  , S, p, a, c, e, T, o, a, d
+########################################################################
+
+########################################################################
+Thermal Foundation | Authored By: Team CoFH :: v1.0.0B3
+The foundation of a Thermally enhanced world!
+http://www.teamcofh.com
+########################################################################
+
+########################################################################
+AromaBackup | Authored By: Aroma1997 :: v0.0.0.3
+This is a small Backup mod I created. All it does: Backups. It also works on clients!
+http://www.minecraftforum.net/topic/1679684-
+########################################################################
+
+########################################################################
+
+ironchest-1.7.10-6.0.43.730-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+OpenEye | Authored By: boq :: v0.6
+User protection, error management and analytics
+http://openmods.info
+Credit: boq, Mikee
+########################################################################
+
+########################################################################
+Another One Bites The Dust | Authored By: ganymedes01 :: v2.2.3
+AOBD dynamically finds all the ores and ingots added by any mod and makes them processable in IC2, EnderIO, RailCraft, Mekanism and TE3 machines!
+
+########################################################################
+
+########################################################################
+LanteaCraft | Authored By: Michiyo :: v1.0.0-52
+Adds Stargates and other Stargate-themed tech!
+http://www.minecraftforum.net/topic/2059956-
+Credit: Michiyo, AfterLifeLochie, DrakeBD, TempusBD, Greg Ewing, G, r, e, g, _, E, w, i, n, g,  , f, o, r,  , t, h, e,  , o, r, i, g, i, n, a, l,  , m, o, d, ,,  , d, e, l, t, a, s, t, r, i, u, m, ., c, o, m,  , f, o, r,  , t, h, e,  , D, e, l, t, a,  , N, P,  , S, G, C, r, a, f, t,  , t, e, x, t, u, r, e, s, .
+########################################################################
+
+########################################################################
+
+OptiFine_1.7.10_HD_A4
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+
+EnderStorage-1.7.10-1.4.5.22-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Growthcraft Grapes | Authored By: Gwafu :: v2.1.0
+Growthcraft Grapes is a mod which adds a new totally crop to the game: grapes. It also comes with Wine-making.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+GenDustry | Authored By: bdew :: v1.3.2.18
+
+bdew.net/mods/
+########################################################################
+
+########################################################################
+Growthcraft | Authored By: Gwafu :: v2.1.0a
+Growthcraft Core is as a mod which acts a central hub for the other mods. It will provide of resources needed in common by two or more Growthcraft mods.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+LaunchGUI | Authored By: TehNut :: v1.2
+Creates a GUI at the start to be customized how you wish.
+http://mods.tehnut.info/
+########################################################################
+
+########################################################################
+Hats | Authored By: iChun :: v4.0.0
+Adds a bunch of hats, as wells as the ability to add more, into Minecraft
+http://ichun.us/mods/hats/
+########################################################################
+
+########################################################################
+ProjectRed-Illumination | Authored By: Unknown :: v4.4.8.47
+None
+None
+########################################################################
+
+########################################################################
+Blood Magic: Alchemical Wizardry | Authored By: WayofTime :: vv1.1.0(1.7.10)
+Example placeholder mod.
+
+########################################################################
+
+########################################################################
+ProjectRed-Transmission | Authored By: Unknown :: v4.4.8.47
+None
+None
+########################################################################
+
+########################################################################
+Steve's Carts 2 | Authored By: Vswe :: v2.0.0.b16
+A carttastic mod adding a near infinite number of carts possible to the game, through the creation of  modular carts.
+
+########################################################################
+
+########################################################################
+PneumaticCraft | Authored By: MineMaarten :: v1.2.5
+A technical mod all about pneumatics!
+www.minemaarten.com
+########################################################################
+
+########################################################################
+Growthcraft Bamboo | Authored By: Gwafu :: v2.1.0
+Growthcraft Bamboo is a mod which adds a new plant to the game: bamboos, which focuses on construction rather food.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+Mekanism | Authored By: aidancbrady :: v7.1.0
+Energy, Armor, Tools, Weapons, Machines, Magic.
+None
+########################################################################
+
+########################################################################
+Ruins Spawning System | Authored By: AtomicStryker :: vNone
+Allows highly customizable Structure Templates to randomly generate in your Worlds
+http://www.minecraftforum.net/topic/1113099-
+Credit: AtomicStryker, d00dv4d3r, kolt666, 4HeadTiger, Blue001, jsmith, Saeldur, S, e, e,  , e, t, e, r, n, a, l,  , g, l, o, r, i, o, u, s,  , c, r, e, d, i, t, s,  , f, i, l, e
+########################################################################
+
+########################################################################
+
+CodeChickenCore-1.7.10-1.0.3.25-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+Thaumic Tinkerer | Authored By: pixlepix :: v2.5-1.7.10-157
+An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT].
+minecraftforum.net/topic/1813058-
+Credit: pixlepix, nekosune, A, z, a, n, o, r, ,,  , T, h, e, A, t, l, a, n, t, i, c, C, r, a, f, t, ,,  , M, a, r, t, y, s, G, a, m, e, s, ,,  , T, h, e, W, h, i, t, e, W, o, l, v, e, s, ,,  , m, D, i, y, o, ,,  , t, h, e, F, l, a, x, b, e, a, r, d, .
+########################################################################
+
+########################################################################
+Computronics | Authored By: asiekierka :: v0.6.4
+A ComputerCraft/OpenComputers addon mod.
+
+Credit: asiekierka, Techokami
+########################################################################
+
+########################################################################
+Redstone Arsenal | Authored By: Team CoFH :: v1.1.0B4
+Behold the Redstone (Flux) Revolution!
+http://www.teamcofh.com
+########################################################################
+
+########################################################################
+Warp Book | Authored By: panicnot42 :: v1.2.29
+A simple book for warping between waypoints
+http://www.minecraftforum.net/topic/2266303-164-warp-book-mod/
+########################################################################
+
+########################################################################
+
+NotEnoughItems-1.7.10-1.0.3.51-universal
+No mcmod.info File Was Found! Let the Dev Know!
+
+########################################################################
+
+########################################################################
+OpenComputers | Authored By: Florian 'Sangar' Nuecke :: v1.3.3.54
+This mod adds modular computers and robots that can be programmed in Lua.
+http://oc.ci.li/
+Credit: Florian 'Sangar' Nuecke, Johannes 'Lord Joda' Lohrer, Everyone who contributed to the mod on Github - thank you!, I, n, s, p, i, r, e, d,  , b, y,  , a,  , c, o, u, p, l, e,  , o, f,  , o, t, h, e, r,  , m, o, d, s, ,,  , m, o, s, t,  , n, o, t, a, b, l, y,  , C, o, m, p, u, t, e, r, C, r, a, f, t, .
+########################################################################
+
+########################################################################
+MekanismGenerators | Authored By: aidancbrady :: v7.1.0
+Generators module of Mekanism.
+None
+########################################################################
+
+########################################################################
+NEI Addons | Authored By: bdew :: v1.12.2.9
+
+bdew.net/neiaddons
+########################################################################
+
+########################################################################
+Applied Energistics 2 | Authored By: AlgorithmX2 :: vrv1-beta-15
+A Mod about Matter, Energy and using them to conquer the world..
+http://ae2.ae-mod.info
+########################################################################
+
+########################################################################
+MineMenu | Authored By: dmillerw :: v1.7.2-1.0.2.10
+MineMenu supports key bindings, commands, and creative functions to make your life easier.
+None
+########################################################################
+
+########################################################################
+Growthcraft Cellar | Authored By: Gwafu :: v2.1.0a
+Growthcraft Cellar is a mod which adds a new in-game hobby: brewing alcoholic beverages.
+http://www.minecraftforum.net/topic/1510394-/
+########################################################################
+
+########################################################################
+BiblioWoods Forestry Edition | Authored By: Joseph 'Nuchaz' Sinclair :: v1.5
+Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft.
+http://www.bibliocraftmod.com
+########################################################################
+
+########################################################################
+Tinkers' Construct | Authored By: mDiyo :: v1.6.0.build611
+A little of this, a little of that, a lot of tinkering, and a lot of tools
+http://www.minecraftforum.net/topic/1659892-tinkers-construct
+Credit: mDiyo, fuj1n, ProgWML6, Sunstrike, Pillbox, S, l, i, m, e,  , K, n, i, g, h, t, s, ,,  , S, a, m, t, r, i, o, n, ,,  , A, b, c, u, l, a, t, t, e, r, _, 2, ,,  , A, l, e, x, b, e, g, t
+########################################################################
+
+########################################################################
+Aroma1997Core | Authored By: Aroma1997, Schillaa :: v1.0.2.8
+This is basically a library used by most my other mods.
+http://www.minecraftforum.net/topic/1679684-
+########################################################################
