@@ -3,6 +3,11 @@ import os
 import json
 import zipfile
 
+#   Ensure there are no UnicdoeDecodingErrors.
+#   The Default ASCII Codec Will Not Work in All Cases on Windows
+reload(sys)
+sys.setdefaultencoding("UTF8")
+
 MOD_INFO_FILENAME = "mcmod.info"
 DEFAULT_WORKING_DIR = "./mods"
 
